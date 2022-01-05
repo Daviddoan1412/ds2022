@@ -11,6 +11,11 @@ USTH ICT 2022 Distributed Systems
 Group Info
 =======================
 
-* Name 1 (ID1)
-* Name 2 (ID2)
+BA9-053	Đặng Thái Sơn - Group Leader
+BA9-041	Đào Hải Long
+BA9-020	Nguyễn Minh Hiếu
+BA9-022	Đỗ Công Hòa
+BA9-008	Đoàn Văn Chương
 
+=======================
+Topic: Remote shell using raw socket (multiple clients)
